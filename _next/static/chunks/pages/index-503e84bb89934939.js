@@ -40,7 +40,7 @@
             description:
               "Worked on designing a fully responsive dynamic Surge Website with wireframing and prototyping, worked on developing the frontend.",
             tags: ["React", "Next.js", "Figma", "Adobe Photoshop"],
-            link: "https://redbrickai.com/",
+            link: "https://surgesnu.in/",
             type: "Design & Development",
           },
           {
@@ -59,6 +59,16 @@
               "Worked as an Automation Intern. Developed Bulk Order Functionality, Chatbot AI, and Automated Emails. Learnt and worked on CRM.",
             tags: ["CRM", "Zoho"],
             link: "https://www.partsbaba.com/",
+            type: "Development",
+          },
+          {
+            id: 5,
+            title:
+              "Yonkx",
+            description:
+              "Developed Frontend and Creatives",
+            tags: ["CRM", "Zoho"],
+            link: "https://yonkx.com/",
             type: "Development",
           },
         ],
