@@ -63,13 +63,11 @@
           },
           {
             id: 5,
-            title:
-              "Yonkx",
-            description:
-              "Developed Frontend and Creatives",
+            title: "Yonkx",
+            description: "Developed Frontend and Creatives",
             tags: ["CRM", "Zoho"],
             link: "https://yonkx.com/",
-            type: "Development",
+            type: "Development & Design",
           },
         ],
         m = () => {
@@ -102,10 +100,7 @@
                     );
               });
             }, []),
-            (0, l.jsxs)("div",
-            {
-              
-            })
+            (0, l.jsxs)("div", {})
           );
         };
       var x = s(7098),

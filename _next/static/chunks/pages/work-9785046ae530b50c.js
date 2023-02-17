@@ -70,7 +70,7 @@
               "Developed Frontend and Creatives",
             tags: ["CRM", "Zoho"],
             link: "https://yonkx.com/",
-            type: "Development",
+            type: "Development & Design",
           },
         ],
         d = () =>
