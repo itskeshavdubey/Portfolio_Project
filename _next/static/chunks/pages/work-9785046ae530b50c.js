@@ -62,6 +62,16 @@
             link: "https://www.partsbaba.com/",
             type: "Development",
           },
+          {
+            id: 5,
+            title:
+              "Yonkx",
+            description:
+              "Developed Frontend and Creatives",
+            tags: ["CRM", "Zoho"],
+            link: "https://yonkx.com/",
+            type: "Development",
+          },
         ],
         d = () =>
           (0, n.jsxs)(o.Z, {
