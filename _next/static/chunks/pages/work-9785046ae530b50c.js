@@ -41,7 +41,7 @@
             description:
               "Worked on designing a fully responsive dynamic Surge Website with wireframing and prototyping, worked on developing the frontend.",
             tags: ["React", "Next.js", "Figma", "Adobe Photoshop"],
-            link: "https://redbrickai.com/",
+            link: "https://surgesnu.in/",
             type: "Design & Development",
           },
           {

@@ -344,7 +344,7 @@
           },
           {
             icon: "/icons/dribbble.svg",
-            link: "https://dribbble.com/",
+            link: "https://dribbble.com/itskeashavdubey",
           },
           { icon: "/icons/mail.svg", link: "mailto:kd479@snu.edu.in" },
         ],
